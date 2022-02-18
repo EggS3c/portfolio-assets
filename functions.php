@@ -67,9 +67,9 @@
     //Enqueuing css
         function custom_css(){
 
-             //adding bootstarp for wordpres
-          //   wp_register_style('bootstrap', get_template_directory_uri() . '/helpers/css/bootstrap.css', [], 1, 'all');
-          //  wp_enqueue_style('bootstrap');
+              //adding bootstarp for wordpres
+              wp_register_style('bootstrap', get_template_directory_uri() . '/helpers/css/bootstrap.css', [], 1, 'all');
+             wp_enqueue_style('bootstrap');
                 
             //adding custom css
            wp_register_style('custom-css', get_template_directory_uri() . '/helpers/css/custom.css', [], 1, 'all');
