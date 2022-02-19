@@ -14,6 +14,21 @@
   <meta name="description" content="HTML5 website template">
   <meta name="keywords" content="global, template, html, sass, jquery">
   <meta name="author" content="Bucky Maler">
+                                                          <!--------------
+
+
+
+                                                                CREDIS to BUCKY MALER for providing the static template files for
+                                                                more us.  BUCKY'S github account is wwww.github.com/BuckyMaler -- global static template.
+                                                                I transform this beautiful static template into a full dynamic wordpress theme.
+                                                                The theme will be free for anyone.
+
+
+                                                                Also I want to give credits to Brad Schiff for his amazing git tutorial -- Git Toturial Series @LearnWebCode  
+
+
+
+                                                          ------------------->
 
         <?php Wp_head()?>
         
